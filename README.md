@@ -31,7 +31,7 @@ To run this project, you will need:
 
 3. **Download ChromeDriver**
 
-    Download the ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and ensure it matches your Chrome browser version. Place the ChromeDriver executable in a directory included in your system's PATH or in the same directory as your script.
+    Download the ChromeDriver and ensure it matches your Chrome browser version. Place the ChromeDriver executable in a directory included in your system's PATH or in the same directory as your script.
 
 4. **Create a Google Form**
 

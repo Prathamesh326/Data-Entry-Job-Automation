@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-GOOGLE_FORM = "https://forms.gle/5ZypFTo4XbJLizabA"
+GOOGLE_FORM = "_____CREATE YOUR OWN GOOGLE FORM AND PASTE LINK HERE______"
 CLONE_URL = "https://appbrewery.github.io/Zillow-Clone/"
 
 response = requests.get(CLONE_URL)
